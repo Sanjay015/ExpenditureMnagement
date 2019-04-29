@@ -1,0 +1,7 @@
+*.csv
+*.CSV
+*.sqlite3
+.idea/
+*.pyc
+*.log
+.vscode
